@@ -6,7 +6,7 @@
 </head>
 <body>
 <div class="modal">
-
+    <?php echo $header; ?>
 </div>
 </body>
 
